@@ -50,7 +50,10 @@ Aplikasi pelacak pengeluaran dan pengelolaan piutang/talangan (*split-bill*) ber
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadbusiri-021&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" alt="Moh. Busiri GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadbusiri-021&theme=github_dark" alt="Moh. Busiri GitHub Activity" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhammadbusiri-021&theme=dark&hide_border=true" alt="Moh. Busiri Streak Stats" />
 </p>
 
 ---
